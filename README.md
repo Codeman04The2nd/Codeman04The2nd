@@ -10,6 +10,8 @@ I like reversing malware
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,cs,ts,js,lua,php,ruby,html,css,kotlin,mysql,sqlite,maven,gradle,rust,discordjs,bash,coffeescript,cmake,bootstrap,nodejs,cloudflare,swift,react&perline=8)](https://skillicons.dev)
 
+extra shit I know but couldnt find icons for: VBS, ASM, Golang
+
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts. Stay tuned for updates!
