@@ -16,7 +16,7 @@ extra shit I know but couldnt find icons for: VBS, ASM, Golang
 
 BLOG - 6/23/25
 
-I'd like to introduce Elemental NEON! Now, whats the difference between NEON and ELemental Renderer?
+I'd like to introduce Elemental NEON! Now, whats the difference between NEON and Elemental Renderer?
 
 Abosultely FUCKING nothing, except my windows people can now successfully run elemental renderer.
 
